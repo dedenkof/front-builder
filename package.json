@@ -34,7 +34,7 @@
   "bugs": {
     "url": "https://github.com/dedenkof/front-builder/issues"
   },
-  "homepage": "https://github.com/dedenkof/ls-builder#readme",
+  "homepage": "https://github.com/dedenkof/front-builder#readme",
   "keywords": [],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -1,9 +1,15 @@
-# LS builder
+# Front Builder
 
 Getting started:
-
-1. clone this repo
-2. cd path/to/builder
-3. npm install gulpjs/gulp-cli#4.0 -g
-4. npm install
-5. run "gulp" command to start
+Install node
+npm rm --global gulp
+node --version
+v6.11.2
+nvm install 8
+nvm use 8.12.0
+npm --version
+npx --version
+npm init --yes
+npm update
+--global gulp-cli
+run "gulp" command to start
