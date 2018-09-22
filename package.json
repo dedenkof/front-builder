@@ -1,0 +1,8 @@
+{
+  "name": "front-builder",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "repository": "https://github.com/dedenkof/front-builder.git",
+  "author": "Vladimir Dedenko <dedenkof@ukr.net>",
+  "license": "MIT"
+}
