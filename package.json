@@ -5,7 +5,7 @@
   "repository": "https://github.com/dedenkof/front-builder.git",
   "author": "Vladimir Dedenko <dedenkof@ukr.net>",
   "license": "ISC",
-   "devDependencies": {
+  "devDependencies": {
     "browser-sync": "^2.24.7",
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "3.1.0",
@@ -25,12 +25,12 @@
     "rimraf": "2.5.2"
   },
   "dependencies": {
-    "normalize.css": "^4.1.1",
-    "jquery": "^3.0.0"
+    "jquery": "^3.0.0",
+    "normalize.css": "^4.1.1"
   },
-  "engines" : {
-    "node" : ">=6.11.2",
-    "yarn" : ">= 1.9.4"
+  "engines": {
+    "node": ">=6.11.2",
+    "yarn": ">= 1.9.4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
